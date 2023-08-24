@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working at KODE on commercial fast payments services
-- 🌱 I’m currently learning netty4
-- 💬 Ask me about java features, multithreading, spring, rest, Phaser 3 and react.js
+🔭 I’m currently working at KODE on commercial fast payments services and making my own multiplayer game
+🌱 I’m currently learning netty4
+💬 Ask me about java features, multithreading, spring, rest, Phaser 3 and react.js
 
