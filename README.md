@@ -5,7 +5,7 @@
 <a href="https://vk.com/tfkonelove">
   <img alt="Artem's VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" /></a> &nbsp;
   
-🔭 I’m currently working at KODE on commercial fast payments services and making my own multiplayer game
-🌱 I’m currently learning netty4
-💬 Ask me about java features, multithreading, spring, rest, Phaser 3 and react.js
+🔭 I’m currently working at KODE on commercial fast payments services and making my own multiplayer game <br></br>
+🌱 I’m currently learning netty4 <br></br>
+💬 Ask me about java features, multithreading, spring, rest, Phaser 3 and react.js <br></br>
 
