@@ -13,3 +13,5 @@ My name is Artem. Im java web developer with high passion for game multiplayers 
 - 🌱 I’m currently learning netty4
 - 💬 Ask me about java features, multithreading, spring, rest, Phaser 3 and react.js
 
+So follow me, I'll show you many tricky sources soon
+
