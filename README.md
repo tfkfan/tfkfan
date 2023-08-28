@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Artem. Im java web developer with high passion for game multiplayers development! 
+
 <a href="https://www.linkedin.com/in/tfkfan">
   <img alt="Artem on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> &nbsp;
 <a href="https://vk.com/tfkonelove">
