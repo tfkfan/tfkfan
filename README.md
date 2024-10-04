@@ -9,7 +9,7 @@ My name is Artem. Im java web developer with high passion for game multiplayers 
 <br/>
 <br/>
 
-- 🔭 I’m currently working at Codeitup on "Mos-hub" development platform and Its async kafka-based highload java services, also Im making my own multiplayer game
+- 🔭 I’m currently working at Codeitup on development platform and Its async kafka-based highload java services, also Im making my own multiplayer game
 - 💬 Ask me about java features, multithreading, spring, rest, message brokers, kubernetes, Phaser 3 and react.js
 
 So follow me, I'll show you many tricky sources soon
