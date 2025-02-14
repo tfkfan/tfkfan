@@ -2,7 +2,7 @@
 
 ### ✨&nbsp; About Me
 
-My name is Artem. I am a backend developer with 10+ years of experience in developing enterprise clustered cloud solutions and high passion for highload/game development. Specializing on java/kotlin mostly but able to use any language and tech stack to achieve the goals.
+My name is Artem. I am a backend developer with a 10+ years of experience in developing enterprise clustered cloud solutions. Specializing on java/kotlin mostly but able to use any language and tech stack to achieve the goals.
 
 <a href="https://www.linkedin.com/in/tfkfan">
   <img alt="Artem on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> &nbsp;
