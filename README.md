@@ -26,7 +26,7 @@ My name is Artem. I am a backend developer with a 10+ years of experience in dev
 
 </details>
 
-During my free time, I actively contribute to my own multiplayer game, my public demo projects and standalone game server solutions. Next step to get https://github.com/tfkfan/vertx-game-server on a new level. 
+During my free time, I actively contribute to my own multiplayer game, my public demo projects and standalone game server solutions. Next step to get https://github.com/tfkfan/orbital on a new level. 
 
 So follow me, I'll show you many tricky sources soon
 
