@@ -28,5 +28,7 @@ My name is Artem. I am a backend developer with a 10+ years of experience in dev
 
 During my free time, I actively contribute to my own multiplayer game, my public demo projects and standalone game server solutions. Next step to get https://github.com/tfkfan/orbital on a new level. 
 
+![](https://komarev.com/ghpvc/?username=tfkfan)
+
 So follow me, I'll show you many tricky sources soon
 
