@@ -10,7 +10,7 @@ My name is Artem. I am a backend developer with a 10+ years of experience in dev
 
 - 🔭 &nbsp;I’m currently working at Codeitup on development platform and kafka-based highload java services
 - 🌱 &nbsp;I’m currently learning Infinispan/Hazelcast cluster orhestration for vert.x, java optimization methods and writing articles for scientific journals (java development & computational hydrodynamics)
-- 👨‍💻 &nbsp;I'm making my own multiplayer game
+- 👨‍💻 &nbsp;I'm making my own multiplayer game & multiplayer framework
 - ⚡ &nbsp;Fun fact: I :heart: animals   <img alt="lissa" width="22px" src="/img/cat2.jpg" /> &nbsp;, guitars, medieval castles, swords, bows, magic and classic rpg games (Gothic is my love). Drinking mana potions everyday. 
 - 💬 &nbsp;Ask me about java features, multithreading, spring, quarkus, micronaut, vertx, rest, message brokers, kubernetes, Phaser 3 and react.js
 
@@ -26,9 +26,6 @@ My name is Artem. I am a backend developer with a 10+ years of experience in dev
 
 </details>
 
-During my free time, I actively contribute to my own multiplayer game, my public demo projects and standalone game server solutions.
-
 ![](https://komarev.com/ghpvc/?username=tfkfan)
 
-So follow me, I'll show you many tricky sources soon
 
