@@ -2,7 +2,7 @@
 
 ### ✨&nbsp; About Me
 
-My name is Artem. I am a backend developer with over 10 years of experience in enterprise clustered cloud solutions development with java/kotlin mostly.
+My name is Artem. I am a backend developer with over 10 years of experience in enterprise clustered cloud solutions development with java/kotlin mostly. Creator and contributor https://github.com/tfkfan/orbital
 
 <a href="https://www.linkedin.com/in/tfkfan">
   <img alt="Artem on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> &nbsp;
