@@ -12,15 +12,15 @@ My name is Artem. I am a backend developer with over 10 years of experience in e
 - 🌱 &nbsp;I’m currently learning Infinispan/Hazelcast cluster orhestration for vert.x, java optimization methods and writing articles for peer-reviewed journals
 - 👨‍💻 &nbsp;I'm making my own multiplayer game & multiplayer framework
 - ⚡ &nbsp;Fun fact: I :heart: animals   <img alt="lissa" width="22px" src="/img/cat2.jpg" /> &nbsp;, guitars, medieval castles, swords, bows, magic and classic rpg games (Gothic is my love). Drinking mana potions everyday. 
-- 💬 &nbsp;Ask me about java features, multithreading, spring, quarkus, micronaut, vertx, rest, message brokers, kubernetes, Phaser 3 and react.js
+- 💬 &nbsp;Ask me about java features, distributed systems, quarkus, vertx,message brokers, kubernetes, Phaser 3 and react.js
 
 <details>
 <summary>🛠️ Tech Stack</summary>
 
-**Frontend:** `HTML`, `CSS`,  `TypeScript`, `JavaScript`, `React`, `Phaser`, `Angular`, `Phaser3`    
+**Frontend:** `HTML`, `CSS`,  `TypeScript`, `JavaScript`, `React`, `Phaser`, `Angular`
 **Backend:** `Java`, `Kotlin`, `Spring`, `VertX`, `Quarkus`, `Micronaut`, `GraalVM`, `C/C++`, `NodeJS`   
-**Databases:** `PostgreSQL`, `MySQL`, `MSSQL`, `MongoDB`, `Clickhouse`, `Redis`   
-**Message brokers:** `Kafka`, `RabbitMQ`, `Redis`   
+**Databases and search:** `PostgreSQL`, `MySQL`, `MSSQL`, `MongoDB`, `Clickhouse`, `Redis`, `ElasticSearch`, `Lucene`, `Hazelcast`
+**Message brokers:** `Kafka`, `RabbitMQ`, `Redis`
 **DevOps:** `Kubernetes`, `Docker`, `Helm`, `Helmfile`, `Ansible`, `Keycloak`, `Istio`, `Vault`, `nginx`,`*nix vms`   
 **Protocols/specs:** `OpenAPI`, `GraphQL`, `SOAP`, `HTTP`, `TLS`, `Websocket`, `TCP/IP`   
 
