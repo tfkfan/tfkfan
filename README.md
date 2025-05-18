@@ -17,10 +17,10 @@ My name is Artem. I am a backend developer with over 10 years of experience in e
 <details>
 <summary>🛠️ Tech Stack</summary>
 
-**Frontend:** `HTML`, `CSS`,  `TypeScript`, `JavaScript`, `React`, `Phaser`, `Angular`
+**Frontend:** `HTML`, `CSS`,  `TypeScript`, `JavaScript`, `React`, `Phaser`, `Angular`   
 **Backend:** `Java`, `Kotlin`, `Spring`, `VertX`, `Quarkus`, `Micronaut`, `GraalVM`, `C/C++`, `NodeJS`   
-**Databases and search:** `PostgreSQL`, `MySQL`, `MSSQL`, `MongoDB`, `Clickhouse`, `Redis`, `ElasticSearch`, `Lucene`, `Hazelcast`
-**Message brokers:** `Kafka`, `RabbitMQ`, `Redis`
+**Databases and search:** `PostgreSQL`, `MySQL`, `MSSQL`, `MongoDB`, `Clickhouse`, `Redis`, `ElasticSearch`, `Lucene`, `Hazelcast`   
+**Message brokers:** `Kafka`, `RabbitMQ`, `Redis`   
 **DevOps:** `Kubernetes`, `Docker`, `Helm`, `Helmfile`, `Ansible`, `Keycloak`, `Istio`, `Vault`, `nginx`,`*nix vms`   
 **Protocols/specs:** `OpenAPI`, `GraphQL`, `SOAP`, `HTTP`, `TLS`, `Websocket`, `TCP/IP`   
 
